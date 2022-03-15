@@ -1,8 +1,8 @@
-# one2mini
+# One2SF
 
-A 60% keyboard featuring per-key RGB LEDs.
+A 65% keyboard featuring per-key RGB LEDs.
 
-* Hardware Supported: Ducky One 2 SF RGB / NUC123SD4AN0 / MBI5042GP
+* Hardware Supported: Ducky One 2 SF RGB / NUC123SD4AN0 / MBIA045GP
 
 Make example for this keyboard (after setting up your build environment):
 
@@ -12,7 +12,7 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 RGB LEDs are currently disabled until the driver is merged.
 
-This firmware was tested on the duckyon2mini 1967ST version. To enter the 1967ST bootloader to flash you can boot the keyboard while holding D+L.
+This firmware was tested on the duckyon2sf 1967ST version. To enter the 1967ST bootloader to flash you can boot the keyboard while holding D+L.
 
 There are then two ways to flash the keyboard:
 
